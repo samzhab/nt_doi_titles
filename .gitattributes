@@ -1,0 +1,5 @@
+doi_and_pubmed_citations.enwiki20150112.nt filter=lfs diff=lfs merge=lfs -text
+doi_and_pubmed_citations.enwiki20150205.nt filter=lfs diff=lfs merge=lfs -text
+doi_isbn_pubmed_and_arxiv.enwiki20150602.nt filter=lfs diff=lfs merge=lfs -text
+doi_isbn_pubmed_and_arxiv.enwiki20151102.nt filter=lfs diff=lfs merge=lfs -text
+doi_isbn_pubmed_and_arxiv.enwiki20161201.nt filter=lfs diff=lfs merge=lfs -text
